@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cat | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Cat | Fairy Keer]]></title>
   <link href="http://emilykeer.github.io/blog/categories/cat/atom.xml" rel="self"/>
   <link href="http://emilykeer.github.io/"/>
-  <updated>2016-09-19T12:41:43-04:00</updated>
+  <updated>2016-09-19T19:58:58-04:00</updated>
   <id>http://emilykeer.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Keer]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
